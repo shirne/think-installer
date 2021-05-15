@@ -1,6 +1,6 @@
 <?php
 
-namespace think\composer;
+namespace shirne\composer;
 
 use Composer\Composer;
 use Composer\IO\IOInterface;

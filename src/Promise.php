@@ -1,6 +1,6 @@
 <?php
 
-namespace think\composer;
+namespace shirne\composer;
 
 class Promise
 {

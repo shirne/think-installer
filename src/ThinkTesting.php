@@ -9,7 +9,7 @@
 // | Author: yunwuxin <448901948@qq.com>
 // +----------------------------------------------------------------------
 
-namespace think\composer;
+namespace shirne\composer;
 
 use Composer\Package\PackageInterface;
 use Composer\Repository\InstalledRepositoryInterface;

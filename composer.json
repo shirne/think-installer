@@ -16,10 +16,10 @@
     ],
     "autoload": {
         "psr-4": {
-            "think\\composer\\": "src"
+            "shirne\\composer\\": "src"
         }
     },
     "extra": {
-        "class": "think\\composer\\Plugin"
+        "class": "shirne\\composer\\Plugin"
     }
 }
